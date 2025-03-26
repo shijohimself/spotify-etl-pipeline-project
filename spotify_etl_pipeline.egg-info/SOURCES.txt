@@ -1,0 +1,5 @@
+setup.py
+spotify_etl_pipeline.egg-info/PKG-INFO
+spotify_etl_pipeline.egg-info/SOURCES.txt
+spotify_etl_pipeline.egg-info/dependency_links.txt
+spotify_etl_pipeline.egg-info/top_level.txt
